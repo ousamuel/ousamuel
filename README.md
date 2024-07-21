@@ -26,9 +26,14 @@ Developer Tools: AWS, Git, JUnit
 
 ## 🚀 **About Me**:
 
-I'm passionate about web development and am currently pursuing a career in software engineering. With proficiency in a range of technologies like JavaScript, React, Next.js, and Python, I'm equipped to contribute effectively to diverse projects. My experiences as an EMT and medical assistant at Stony Brook University refined my decision-making skills and adaptability in high-pressure situations. The allure of math, physics, and logic prompted me to undertake an intensive 15-week software engineering program. Now, having completed this rigorous training, I'm eager to hone my skills further and collaborate on innovative projects.
+My name is Samuel Ou and I am a graduate from Stony Brook University and Flatiron Bootcamp
 
-For collaborations, inquiries, or just a chat about tech, feel free to contact me!
+As a developer, I specialize in solving technical problems, finding the most creative and efficient solutions that also provide valuable learning experiences. My passion lies in constant learning and growing my craftsmanship in software.
+
+"What single accomplishment are you most proud of?"
+I'm most proud of my growth as a person. When I was younger, I used to be quite hot-headed and stubborn, which often led to conflicts between me and my peers. Fortunately, I was able to turn myself around, but this accomplishment was not a solo accomplishment; surrounding myself with the right people is what pushed me to become more open-minded and patient. These traits branched out into every aspect of my life, whether it was talking to friends/strangers or finding solutions to fix my code. I'm proud of who I've become and am excited to keep growing.
+
+Fun fact about me: After years of playing pool, I successfully learned how to juggle.
 
 ---
 <!--
