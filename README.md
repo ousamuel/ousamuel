@@ -1,4 +1,4 @@
-# Hello, I'm Sam! 👋
+# Samuel Ou
 
 ### 📍 Location: New York, NY
 ### 📧 Email: [samuelou510@gmail.com](mailto:samuelou510@gmail.com)
