@@ -19,8 +19,10 @@
 ## 🔧 **Technical Skills**:
 
 Languages: JavaScript, TypeScript, Python, Java, SQL, HTML, CSS
-Frameworks and Libraries: React, NextJS, PostgreSQL, SQL Alchemy, Mongoose, Node, Express, Flask, Tailwind
-Developer Tools: AWS, Git, JUnit
+
+Frameworks and Libraries: React, NextJS, Django, Flask, Mongoose, SQL Alchemy, Node, Express, Tailwind
+
+Databases and Developer Tools: AWS, PostgreSQL, MongoDB, Git, JUnit
 
 ---
 
